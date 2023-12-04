@@ -1,0 +1,24 @@
+{
+  "name": "cyphora",
+  "version": "1.0.0",
+  "description": "This is a discord bot built specificaly for the Code.inc server, but feel free to use it in your programming server.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelnji/cyphora.git"
+  },
+  "author": "michaelnji, alienzonroids",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelnji/cyphora/issues"
+  },
+  "homepage": "https://github.com/michaelnji/cyphora#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.2"
+  }
+}
